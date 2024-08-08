@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "n6At9ApAFneVXTXfX/HvTJ+OoI9XMu3k9n9Am9gcwW0=",
+  "Source": "ApiPeliculas",
+  "BasePath": "_content/ApiPeliculas",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ApiPeliculas\\wwwroot",
+      "Source": "ApiPeliculas",
+      "ContentRoot": "D:\\ApiCurso\\ApiPeliculas\\ApiPeliculas\\wwwroot\\",
+      "BasePath": "_content/ApiPeliculas",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\ApiCurso\\ApiPeliculas\\ApiPeliculas\\wwwroot\\ImagenesPeliculas\\0cc8fd4f2-80d1-4263-a56b-93abc4c60a6e.jpg",
+      "SourceId": "ApiPeliculas",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ApiCurso\\ApiPeliculas\\ApiPeliculas\\wwwroot\\",
+      "BasePath": "_content/ApiPeliculas",
+      "RelativePath": "ImagenesPeliculas/0cc8fd4f2-80d1-4263-a56b-93abc4c60a6e.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ImagenesPeliculas\\0cc8fd4f2-80d1-4263-a56b-93abc4c60a6e.jpg"
+    },
+    {
+      "Identity": "D:\\ApiCurso\\ApiPeliculas\\ApiPeliculas\\wwwroot\\ImagenesPeliculas\\1526a110c-6403-474e-b5d7-321dca31d80f.jpg",
+      "SourceId": "ApiPeliculas",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ApiCurso\\ApiPeliculas\\ApiPeliculas\\wwwroot\\",
+      "BasePath": "_content/ApiPeliculas",
+      "RelativePath": "ImagenesPeliculas/1526a110c-6403-474e-b5d7-321dca31d80f.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ImagenesPeliculas\\1526a110c-6403-474e-b5d7-321dca31d80f.jpg"
+    }
+  ]
+}

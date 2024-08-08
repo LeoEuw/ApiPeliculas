@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ApiCurso\\ApiPeliculas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22728167-D586-4859-923D-CCAB0E9491C7}|ApiPeliculas\\ApiPeliculas.csproj|d:\\apicurso\\apipeliculas\\apipeliculas\\controllers\\v1\\peliculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22728167-D586-4859-923D-CCAB0E9491C7}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\controllers\\v1\\peliculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22728167-D586-4859-923D-CCAB0E9491C7}|ApiPeliculas\\ApiPeliculas.csproj|d:\\apicurso\\apipeliculas\\apipeliculas\\repositorio\\pelicularepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22728167-D586-4859-923D-CCAB0E9491C7}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\repositorio\\pelicularepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22728167-D586-4859-923D-CCAB0E9491C7}|ApiPeliculas\\ApiPeliculas.csproj|d:\\apicurso\\apipeliculas\\apipeliculas\\repositorio\\irepositorio\\ipelicularepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22728167-D586-4859-923D-CCAB0E9491C7}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\repositorio\\irepositorio\\ipelicularepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22728167-D586-4859-923D-CCAB0E9491C7}|ApiPeliculas\\ApiPeliculas.csproj|d:\\apicurso\\apipeliculas\\apipeliculas\\models\\dtos\\actualizarpeliculadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22728167-D586-4859-923D-CCAB0E9491C7}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\models\\dtos\\actualizarpeliculadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22728167-D586-4859-923D-CCAB0E9491C7}|ApiPeliculas\\ApiPeliculas.csproj|d:\\apicurso\\apipeliculas\\apipeliculas\\models\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22728167-D586-4859-923D-CCAB0E9491C7}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\models\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PeliculaRepositorio.cs",
+              "DocumentMoniker": "D:\\ApiCurso\\ApiPeliculas\\ApiPeliculas\\Repositorio\\PeliculaRepositorio.cs",
+              "RelativeDocumentMoniker": "ApiPeliculas\\Repositorio\\PeliculaRepositorio.cs",
+              "ToolTip": "D:\\ApiCurso\\ApiPeliculas\\ApiPeliculas\\Repositorio\\PeliculaRepositorio.cs",
+              "RelativeToolTip": "ApiPeliculas\\Repositorio\\PeliculaRepositorio.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAmwFcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T14:14:42.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPeliculaRepositorio.cs",
+              "DocumentMoniker": "D:\\ApiCurso\\ApiPeliculas\\ApiPeliculas\\Repositorio\\IRepositorio\\IPeliculaRepositorio.cs",
+              "RelativeDocumentMoniker": "ApiPeliculas\\Repositorio\\IRepositorio\\IPeliculaRepositorio.cs",
+              "ToolTip": "D:\\ApiCurso\\ApiPeliculas\\ApiPeliculas\\Repositorio\\IRepositorio\\IPeliculaRepositorio.cs",
+              "RelativeToolTip": "ApiPeliculas\\Repositorio\\IRepositorio\\IPeliculaRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T14:11:24.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ActualizarPeliculaDto.cs",
+              "DocumentMoniker": "D:\\ApiCurso\\ApiPeliculas\\ApiPeliculas\\Models\\Dtos\\ActualizarPeliculaDto.cs",
+              "RelativeDocumentMoniker": "ApiPeliculas\\Models\\Dtos\\ActualizarPeliculaDto.cs",
+              "ToolTip": "D:\\ApiCurso\\ApiPeliculas\\ApiPeliculas\\Models\\Dtos\\ActualizarPeliculaDto.cs",
+              "RelativeToolTip": "ApiPeliculas\\Models\\Dtos\\ActualizarPeliculaDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T13:35:03.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pelicula.cs",
+              "DocumentMoniker": "D:\\ApiCurso\\ApiPeliculas\\ApiPeliculas\\Models\\Pelicula.cs",
+              "RelativeDocumentMoniker": "ApiPeliculas\\Models\\Pelicula.cs",
+              "ToolTip": "D:\\ApiCurso\\ApiPeliculas\\ApiPeliculas\\Models\\Pelicula.cs",
+              "RelativeToolTip": "ApiPeliculas\\Models\\Pelicula.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T13:34:46.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PeliculasController.cs",
+              "DocumentMoniker": "D:\\ApiCurso\\ApiPeliculas\\ApiPeliculas\\Controllers\\V1\\PeliculasController.cs",
+              "RelativeDocumentMoniker": "ApiPeliculas\\Controllers\\V1\\PeliculasController.cs",
+              "ToolTip": "D:\\ApiCurso\\ApiPeliculas\\ApiPeliculas\\Controllers\\V1\\PeliculasController.cs",
+              "RelativeToolTip": "ApiPeliculas\\Controllers\\V1\\PeliculasController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAwwB4AAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T12:49:32.748Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
